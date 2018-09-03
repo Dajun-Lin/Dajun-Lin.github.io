@@ -9,7 +9,7 @@ author_profile: true
 
 My wife, [Siying Liu](https://SiyingL.github.io), is also an economist. She is currently a post-doctoral research scholar at Wake Forest University.
 
-Here is are a couple of pictures of us, togehther with our dog.
+Here is a picture of us and our dog.
 
 <img src="https://Dajun-Lin.github.io/images/_MG_0265.jpg" width="200" height="200" />
 
