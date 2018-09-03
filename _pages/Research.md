@@ -9,7 +9,7 @@ author_profile: true
 Research
 ===
 **Pledge**
-For all published papers, I provide and will keep providing all publically available raw data, data cleaning code and analysis code. The goal is that any person reasonably educated in economics, statistics and basic coding (say a second year Econ PhD student) can replicate all published results from scratch with precision. In case of restricted datasets, my coauthors and I will provide instructions on how to obtain them.
+For all published papers, I provide and will keep providing all publically available raw data, data cleaning code and analysis code. The goal is that anyone reasonably educated in economics, statistics and basic coding (say a second year Econ PhD student) could replicate all published results from scratch. In case of restricted datasets, my coauthors and I will provide instructions on how to obtain them.
 
 **Published**
 
@@ -32,6 +32,7 @@ with Randall Lutter, Christopher J. Ruhm and Siying Liu. Forthcoming at *Materna
 **Working Papers**
 
 "Multidimensional Abilities, Task Content of Occupations, and Career Choices: A Dynamic Analysis." (Job Market Paper)
+
 ---
 
 "Air Pollution, Infant Morbidity and Infant Mortality: Evidence from 15 Years of Births and Deaths in Hong Kong."
