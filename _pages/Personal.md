@@ -7,10 +7,12 @@ author_profile: true
 
 ## Family
 
-My wife (Dajun Lin) and I. Dajun is a Ph.D. candidate in Economics at University of Virginia. He works on labor and health related topics. He will be available for interviews at the January 2019 ASSA meeting in Atlanta, Georgia. You can check out his personal website [here](https://dajun-lin.github.io/).
+My wife, [Siying Liu](https://SiyingL.github.io), is also an economist. She is currently a post-doctoral research scholar at Wake Forest University.
+
+Here is are a couple of pictures of us, togehther with our dog.
+
+<img src="https://Dajun-Lin.github.io/images/_MG_0265.jpg" width="200" height="200" />
 
 <img src="https://SiyingL.github.io/images/couplephoto.jpg" width="200" height="200" />
 
-Here is another important family member, who specializes in ball retrieving.
-
-<img src="https://SiyingL.github.io/images/dogphoto.jpg" width="200" height="200" />
+We have also done [this](https://www.dropbox.com/s/6eoqzkwjhi8rscz/IMG_2471.jpg?dl=0), [this](https://xkcd.com/557/) and [this](https://xkcd.com/162/) together.
