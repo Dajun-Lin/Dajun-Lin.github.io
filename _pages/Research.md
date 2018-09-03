@@ -9,6 +9,7 @@ author_profile: true
 Research
 ===
 **Pledge**
+
 For all published papers, I provide and will keep providing all publically available raw data, data cleaning code and analysis code. The goal is that anyone reasonably educated in economics, statistics and basic coding (say a second year Econ PhD student) could replicate all published results from scratch. In case of restricted datasets, my coauthors and I will provide instructions on how to obtain them.
 
 **Published**
