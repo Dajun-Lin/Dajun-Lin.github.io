@@ -29,6 +29,8 @@ with Randall Lutter, Christopher J. Ruhm and Siying Liu. Forthcoming at *Materna
 
 [Replication Package](https://www.dropbox.com/sh/v8fkgrjwvfdaoxa/AAAwFO3CCGAygl7tEIVpsfVDa?dl=0)
 
+---
+
 **Working Papers**
 
 "Multidimensional Abilities, Task Content of Occupations, and Career Choices: A Dynamic Analysis." (Job Market Paper)
@@ -37,6 +39,8 @@ with Randall Lutter, Christopher J. Ruhm and Siying Liu. Forthcoming at *Materna
 
 "Air Pollution, Infant Morbidity and Infant Mortality: Evidence from 15 Years of Births and Deaths in Hong Kong."
 with Jonathan Colmer, Siying Liu and Jay P. Shimshack.
+
+---
 
 **Work in Progress**
 
@@ -54,5 +58,3 @@ with Jonathan Colmer, Siying Liu and Jay P. Shimshack.
 
 "Drug Related Deaths and Local Physician Practicing Styles." 
 with Siying Liu and Christopher J. Ruhm.
-
-
