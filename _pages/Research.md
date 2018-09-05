@@ -23,7 +23,7 @@ with Randall Lutter and Christopher J. Ruhm. *Labour Economics 51 (2018): 121-13
 
 ---
 
-"Breastfeeding, Schooling and Income: Insights from the Indonesian Family Life Survey."
+["Breastfeeding, Schooling and Income: Insights from the Indonesian Family Life Survey."](https://onlinelibrary.wiley.com/doi/abs/10.1111/mcn.12651)
 with Randall Lutter, Christopher J. Ruhm and Siying Liu. Forthcoming at *Maternal and Child Nutrition*.
 
 [Preprint Working Paper with All Appendices](https://www.dropbox.com/s/vobvg4k5l4gr7bg/BF_Indonesia_Fin.pdf?dl=0)
