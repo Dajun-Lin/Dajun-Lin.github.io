@@ -15,7 +15,7 @@ For all published papers, I provide and will keep providing all publicly availab
 **Published**
 
 ["Cognitive Performance and Labour Market Outcomes."](https://www.sciencedirect.com/science/article/pii/S0927537117303329)
-with Randall Lutter and Christopher J. Ruhm. *Labour Economics 51 (2018): 121-135*.
+with [Randall Lutter](https://batten.virginia.edu/school/people/randall-lutter) and [Christopher J. Ruhm](https://batten.virginia.edu/school/people/christopher-j-ruhm). *Labour Economics 51 (2018): 121-135*.
 
 [Preprint Working Paper with All Appendices](https://www.dropbox.com/s/0599h9ykeoduivt/Cognitive%20Performance%20%26%20Labor%20Mkt%20Outcomes%20IZA_fin.pdf?dl=0)
 
@@ -24,7 +24,7 @@ with Randall Lutter and Christopher J. Ruhm. *Labour Economics 51 (2018): 121-13
 ---
 
 ["Breastfeeding, Schooling and Income: Insights from the Indonesian Family Life Survey."](https://onlinelibrary.wiley.com/doi/abs/10.1111/mcn.12651)
-with Randall Lutter, Christopher J. Ruhm and Siying Liu. Forthcoming at *Maternal and Child Nutrition*.
+with Randall Lutter, Christopher J. Ruhm and [Siying Liu](https://siyingl.github.io/). Forthcoming at *Maternal and Child Nutrition*.
 
 [Preprint Working Paper with All Appendices](https://www.dropbox.com/s/vobvg4k5l4gr7bg/BF_Indonesia_Fin.pdf?dl=0)
 
@@ -39,13 +39,13 @@ with Randall Lutter, Christopher J. Ruhm and Siying Liu. Forthcoming at *Materna
 ---
 
 "Air Pollution, Infant Morbidity and Infant Mortality: Evidence from 15 Years of Births and Deaths in Hong Kong."
-with Jonathan Colmer, Siying Liu and Jay P. Shimshack.
+with [Jonathan Colmer](http://economics.virginia.edu/people/profile/jmc4qg), Siying Liu and [Jay P. Shimshack](https://batten.virginia.edu/school/people/jay-shimshack).
 
 ---
 
 **Work in Progress**
 
-"Health Interdependency in the Household." with Leora Friedberg and Dina Guo.
+"Health Interdependency in the Household." with [Leora Friedberg](http://economics.virginia.edu/people/profile/lfriedberg) and [Dina Guo](https://dinaguo.weebly.com/).
 
 [Two Page Summary](https://www.dropbox.com/s/tfmpv0rffm4i25e/Abstract%201_Health%20Interdependency%20in%20the%20Household.pdf?dl=0)
 
