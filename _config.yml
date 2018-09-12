@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Dajun Lin"
   avatar           : "Lin_ProfilePicture.jpg"
-  bio              : "PhD candidate in Economics; Math/Statistics enthusiast; Basketball fan; Epicure"
+  bio              : "PhD candidate in Economics" # Math/Statistics enthusiast; Basketball fan; Epicure
   location         : "Charlottesville, VA"
   employer         : 
   googlescholar    : 
