@@ -36,10 +36,7 @@ with Randall Lutter, Christopher J. Ruhm and [Siying Liu](https://siyingl.github
 
 "Multidimensional Abilities, Task Content of Occupations, and Career Choices: A Dynamic Analysis." (Job Market Paper)
 
----
-
-"Air Pollution, Infant Morbidity and Infant Mortality: Evidence from 15 Years of Births and Deaths in Hong Kong."
-with [Jonathan Colmer](http://economics.virginia.edu/people/profile/jmc4qg), Siying Liu and [Jay P. Shimshack](https://batten.virginia.edu/school/people/jay-shimshack).
+[Abstract](https://www.dropbox.com/s/stekgodko3kxbbx/abstract.pdf?dl=0)
 
 ---
 
@@ -59,3 +56,8 @@ with [Jonathan Colmer](http://economics.virginia.edu/people/profile/jmc4qg), Siy
 
 "Drug Related Deaths and Local Physician Practicing Styles." 
 with Siying Liu and Christopher J. Ruhm.
+
+---
+
+"Air Pollution, Infant Morbidity and Infant Mortality: Evidence from 15 Years of Births and Deaths in Hong Kong."
+with [Jonathan Colmer](http://economics.virginia.edu/people/profile/jmc4qg), Siying Liu and [Jay P. Shimshack](https://batten.virginia.edu/school/people/jay-shimshack).
