@@ -54,7 +54,7 @@ with Randall Lutter, Christopher J. Ruhm and [Siying Liu](https://siyingl.github
 
 ---
 
-"Drug Related Deaths and Local Physician Practicing Styles." 
+"opioid Poisoning Deaths and Local Physician Practicing Styles." 
 with Siying Liu and Christopher J. Ruhm.
 
 ---
