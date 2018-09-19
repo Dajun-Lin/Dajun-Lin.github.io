@@ -48,7 +48,7 @@ with Randall Lutter, Christopher J. Ruhm and [Siying Liu](https://siyingl.github
 
 ---
 
-"Happy Together or Home Alone: A Structural Model of Health Insurance, Saving and Coordinated Retirement Decisions." with Leora Friedberg and Dina Guo.
+"Happy Together or Home Alone: A Structural Model of Health Insurance, Saving and Coordinated Retirement Decisions." with Leora Friedberg and Dina Guo, (Based on Dina's dissertation).
 
 [Two Page Summary](https://www.dropbox.com/s/rr3dl8ykk72wqlo/Abstract%202_Friedberg_Guo_Lin.pdf?dl=0)
 
