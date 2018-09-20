@@ -34,7 +34,7 @@ with Randall Lutter, Christopher J. Ruhm and [Siying Liu](https://siyingl.github
 
 **Working Papers**
 
-"Multidimensional Abilities, Task Content of Occupations, and Career Choices: A Dynamic Analysis." (Job Market Paper)
+"Multi-Dimensional Abilities, Task Content of Occupations, and Career Choices: A Dynamic Analysis." (Job Market Paper)
 
 [Abstract](https://www.dropbox.com/s/stekgodko3kxbbx/abstract.pdf?dl=0)
 
