@@ -40,7 +40,7 @@ with Randall Lutter, Christopher J. Ruhm and [Siying Liu](https://siyingl.github
 
 ---
 
-"Opioid Poisoning Deaths and Local Physician Practicing Styles." 
+"Opioid Poisoning Deaths and Local Health Care Intensity." 
 with Siying Liu and Christopher J. Ruhm. (Working paper available upon request)
 
 ---
