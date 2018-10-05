@@ -7,8 +7,6 @@ author_profile: true
 
 ## Teaching Assistant; UVa Undergraduate Economics Classes ##
 
-Lead various undergraduate discussion sessions in economics ranging from entry level class like principle of microeconomics to advanced topics like environmental economics.  
-
 The table below shows all the classes I have been a gradute teaching assistant for, sorted by course number:
 
 |Class name | Year |
