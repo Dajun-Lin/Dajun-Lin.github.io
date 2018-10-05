@@ -10,7 +10,7 @@ Research
 ===
 **Pledge**
 
-For all published papers, I provide and will keep providing all publicly available datasets, data cleaning code and analysis code. I will try my best to make the files user-friendly. The goal is that anyone reasonably educated in economics, statistics and basic coding (e.g. a second year Econ PhD student) could precisely replicate all published results from scratch. In case of restricted datasets, my coauthors and I will provide instructions on how to obtain them.
+For all published papers, I provide all publicly available datasets, data cleaning code and analysis code. I will try my best to make the files user-friendly. The goal is that anyone reasonably educated in economics, statistics and basic coding (e.g. a second year Econ PhD student) could precisely replicate all published results from scratch. In case of restricted datasets, my coauthors and I will provide instructions on how to obtain them.
 
 **Publications**
 
