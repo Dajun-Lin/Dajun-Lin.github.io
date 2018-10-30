@@ -36,6 +36,8 @@ with Randall Lutter, Christopher J. Ruhm and [Siying Liu](https://siyingl.github
 
 "Multi-Dimensional Abilities, Task Content of Occupations and Career Choices: A Dynamic Analysis" (Job Market Paper)
 
+[Draft](https://www.dropbox.com/s/45sh1gumftqj8fq/draft.pdf?dl=0)
+
 ---
 
 "Opioid Related Deaths and Local Health Care Intensity" 
