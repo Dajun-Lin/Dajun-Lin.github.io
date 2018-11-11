@@ -49,13 +49,13 @@ with Siying Liu and Christopher J. Ruhm. (Submitted)
 
 ---
 
-**Work in Progress**
-
 "Health Interdependency in the Household" with [Leora Friedberg](http://economics.virginia.edu/people/profile/lfriedberg) and [Dina Guo](https://dinaguo.weebly.com/).
 
 [Two Page Summary](https://www.dropbox.com/s/tfmpv0rffm4i25e/Abstract%201_Health%20Interdependency%20in%20the%20Household.pdf?dl=0)
 
 ---
+
+**Work in Progress**
 
 "Happy Together or Home Alone: A Structural Model of Health Insurance, Saving and Coordinated Retirement Decisions" with Leora Friedberg and Dina Guo (Extended from Dina's dissertation).
 
