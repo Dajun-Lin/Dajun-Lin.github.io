@@ -12,6 +12,16 @@ Research
 
 For all published papers, I provide all publicly available datasets, data cleaning code and analysis code. I will try my best to make the files user-friendly. The goal is that anyone reasonably educated in economics, statistics and basic coding (e.g. a second year Econ PhD student) could precisely replicate all published results from scratch. In case of restricted datasets, my coauthors and I will provide instructions on how to obtain them.
 
+---
+
+**Job Market Paper**
+
+"Multi-Dimensional Abilities, Task Content of Occupations and Career Choices: A Dynamic Analysis" 
+
+[Draft](https://www.dropbox.com/s/45sh1gumftqj8fq/draft.pdf?dl=0)
+
+---
+
 **Publications**
 
 ["Cognitive Performance and Labour Market Outcomes"](https://www.sciencedirect.com/science/article/pii/S0927537117303329)
@@ -33,12 +43,6 @@ with Randall Lutter, Christopher J. Ruhm and [Siying Liu](https://siyingl.github
 ---
 
 **Working Papers**
-
-"Multi-Dimensional Abilities, Task Content of Occupations and Career Choices: A Dynamic Analysis" (**Job Market Paper**)
-
-[Draft](https://www.dropbox.com/s/45sh1gumftqj8fq/draft.pdf?dl=0)
-
----
 
 "Opioid Related Deaths and Local Health Care Intensity" 
 with Siying Liu and Christopher J. Ruhm. (Submitted)
