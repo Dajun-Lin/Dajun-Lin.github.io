@@ -45,7 +45,7 @@ with Randall Lutter, Christopher J. Ruhm and [Siying Liu](https://siyingl.github
 **Working Papers**
 
 "Opioid Related Deaths and Local Health Care Intensity" 
-with Siying Liu and Christopher J. Ruhm. (Submitted)
+with Siying Liu and Christopher J. Ruhm. (Submitted; draft available upon request)
 
 ---
 
