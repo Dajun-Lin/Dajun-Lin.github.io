@@ -18,7 +18,7 @@ For all published papers, I provide all publicly available datasets, data cleani
 
 "Multi-Dimensional Abilities, Task Content of Occupations and Career Choices: A Dynamic Analysis" 
 
-[Draft](https://www.dropbox.com/s/45sh1gumftqj8fq/draft.pdf?dl=0)
+[Draft](https://www.dropbox.com/s/l14gnjsh5xdnnap/draft.pdf?dl=0)
 
 ---
 
