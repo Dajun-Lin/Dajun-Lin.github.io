@@ -34,7 +34,7 @@ with [Randall Lutter](https://batten.virginia.edu/school/people/randall-lutter) 
 ---
 
 ["Breastfeeding, Schooling and Income: Insights from the Indonesian Family Life Survey"](https://onlinelibrary.wiley.com/doi/abs/10.1111/mcn.12651)
-with Randall Lutter, Christopher J. Ruhm and [Siying Liu](https://siyingl.github.io/). Forthcoming at *Maternal and Child Nutrition*.
+with Randall Lutter, Christopher J. Ruhm and [Siying Liu](https://siyingl.github.io/). *Maternal & Child Nutrition* 15.1(2019): e12651.
 
 [Preprint Working Paper with All Appendices](https://www.dropbox.com/s/vobvg4k5l4gr7bg/BF_Indonesia_Fin.pdf?dl=0)
 
