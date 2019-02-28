@@ -10,12 +10,12 @@ redirect_from:
 
 # Welcome!
 
-I am a Ph.D. candidate in Economics at University of Virginia. I will be available for interviews at the January 2019 ASSA meeting in Atlanta, Georgia.
+I am a Ph.D. candidate in Economics at the University of Virginia. My research interests are in labor and health economics. My dissertation work combines economic theory, structural modeling and computation and simulation methods for estimation to quantify how different abilities (e.g., cognitive vs. interpersonal) affect workers' career choices and lifetime income. I have also studied health-related topics, such as how air pollution affects infant health, how physicians' practicing intensity affects opioid-related deaths and the long-term labor market effects of increased duration of breastfeeding during infancy.
 
 **Research Fields:**
   - Labor Economics
   - Health Economics
-  - Applied Microeconomics
+  - Applied Econometrics
 
 **Contact:**
  - Email: dl5me@virginia.edu
