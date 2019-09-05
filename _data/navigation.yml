@@ -7,8 +7,8 @@ main:
     url: /research2/
   
 
-  - title: "Teaching"
-    url: /teaching2/    
+#  - title: "Teaching"
+#    url: /teaching2/    
     
   - title: "References"
     url: /reference/  
