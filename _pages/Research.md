@@ -14,14 +14,6 @@ For all published papers, I provide all publicly available datasets, data cleani
 
 ---
 
-**Job Market Paper**
-
-"Multi-Dimensional Abilities, Task Content of Occupations and Career Choices: A Dynamic Analysis" 
-
-[Draft](https://www.dropbox.com/s/l14gnjsh5xdnnap/draft.pdf?dl=0)
-
----
-
 **Publications**
 
 ["Cognitive Performance and Labour Market Outcomes"](https://www.sciencedirect.com/science/article/pii/S0927537117303329)
@@ -46,6 +38,12 @@ with Randall Lutter, Christopher J. Ruhm and [Siying Liu](https://siyingl.github
 
 "Opioid Related Deaths and Local Health Care Intensity" 
 with Siying Liu and Christopher J. Ruhm. (Submitted; draft available upon request)
+
+---
+
+"Multi-Dimensional Abilities, Task Content of Occupations and Career Choices: A Dynamic Analysis" 
+
+[Draft](https://www.dropbox.com/s/l14gnjsh5xdnnap/draft.pdf?dl=0)
 
 ---
 
