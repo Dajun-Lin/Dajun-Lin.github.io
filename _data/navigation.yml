@@ -13,8 +13,8 @@ main:
   - title: "References"
     url: /reference/  
     
-#  - title: "Personal"  
-#    url: /personal/ 
+  - title: "Personal"  
+    url: /personal/ 
     
 #  - title: "Guide"
 #    url: /markdown/
