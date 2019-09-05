@@ -18,7 +18,7 @@ Education
 Skills
 ======
 * Software
-  * Stata; MATLAB; GIS; Python 
+  * Stata; R; MATLAB; GIS; Python 
 * Scientific Computing
   * Fortran; Parallel Computing
 * Languages
