@@ -12,8 +12,8 @@ You can download a PDF version of my CV [here](https://www.dropbox.com/s/jwvqb7p
 
 Education
 ======
-* Ph.D. in Economics, University of Virginia, May 2019 (expected).
-* B.S. in Mathematics and Economics, University of Delaware, May 2012.
+* Ph.D. in Economics, University of Virginia, 2019.
+* B.S. in Mathematics and Economics, University of Delaware, 2012.
 
 Skills
 ======
