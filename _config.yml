@@ -81,9 +81,9 @@ analytics:
 author:
   name             : "Dajun Lin (林大钧)"
   avatar           : "Lin_ProfilePicture.jpg"
-  bio              : "Researcher @ American Institutes for Research" # Math/Statistics enthusiast; Basketball fan; Epicure
+  bio              : "Research Economist" # Math/Statistics enthusiast; Basketball fan; Epicure
   location         : "Arlington, VA"
-  employer         : 
+  employer         : "American Institutes for Research"
   googlescholar    : 
   email            : "dl5me@virginia.edu"
   uri              :
@@ -98,7 +98,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : dajun-lin-5177a3180
+  linkedin         : "dajun-lin-5177a3180"
   orcid            : "0000-0003-0150-633X"
   pinterest        :
   soundcloud       :
@@ -250,7 +250,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
