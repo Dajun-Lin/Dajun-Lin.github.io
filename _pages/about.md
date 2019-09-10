@@ -20,4 +20,4 @@ My dissertation work combines economic theory, structural modeling and computati
   - Applied Econometrics
 
 **Contact:**
- - Email: dl5me@virginia.edu
+ - Email: dlin@air.org
