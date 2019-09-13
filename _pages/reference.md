@@ -25,6 +25,8 @@ External References
 - [Randall Lutter](https://batten.virginia.edu/school/people/randall-lutter)
   - Email: rwlutter@gmail.com
   - U.S. [FDA](https://www.fda.gov/AboutFDA/CentersOffices/OC/ImmediateOfficeoftheCommissioner/default.htm) (Senior Science and Regulatory Advisor)
+<!--
   - Phone: (240) 271-8430
+-->
 
 - The [Advanced Research Computing Services](https://arcs.virginia.edu/) group at the University of Virginia provides high-performance computing expertise and service to researchers from across disciplines. In particular, [Katherine Holcomb](https://arcs.virginia.edu/staff#Katherine%20Holcomb) and [Ed Hall](https://arcs.virginia.edu/staff#Ed%20Hall) have helped me on issues related to parallel computing.
