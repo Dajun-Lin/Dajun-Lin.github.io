@@ -13,16 +13,16 @@ Research
 <!--- For all published papers, I provide all publicly available datasets, data cleaning code and analysis code. I will try my best to make the files user-friendly. The goal is that anyone reasonably educated in economics, statistics and basic coding (e.g. a second year Econ PhD student) could precisely replicate all published results from scratch. In case of restricted datasets, my coauthors and I will provide instructions on how to obtain them. -->
 **Publications**
 
-"Opioid Deaths and Local Health Care Intensity: A Longitudinal Analysis of the U.S. Population, 2003-2014," with Siying Liu and Christopher J. Ruhm. Forthcoming at *American Journal of Preventive Medicine*.
-
----
-
 ["Cognitive Performance and Labour Market Outcomes"](https://www.sciencedirect.com/science/article/pii/S0927537117303329)
 with [Randall Lutter](https://batten.virginia.edu/school/people/randall-lutter) and [Christopher J. Ruhm](https://batten.virginia.edu/school/people/christopher-j-ruhm). *Labour Economics 51 (2018): 121-135*. [Preprint Working Paper with All Appendices](https://www.dropbox.com/s/0599h9ykeoduivt/Cognitive%20Performance%20%26%20Labor%20Mkt%20Outcomes%20IZA_fin.pdf?dl=0), [Replication Package](https://www.dropbox.com/sh/xff0m2polmqj7zh/AADgm3bYupjePWHuvW9XhtQIa?dl=0).
 
 ---
 
 ["Breastfeeding, Schooling and Income: Insights from the Indonesian Family Life Survey"](https://onlinelibrary.wiley.com/doi/abs/10.1111/mcn.12651) with Randall Lutter, Christopher J. Ruhm and [Siying Liu](https://siyingl.github.io/). *Maternal & Child Nutrition* 15.1(2019): e12651. [Preprint Working Paper with All Appendices](https://www.dropbox.com/s/vobvg4k5l4gr7bg/BF_Indonesia_Fin.pdf?dl=0) [Replication Package](https://www.dropbox.com/sh/v8fkgrjwvfdaoxa/AAAwFO3CCGAygl7tEIVpsfVDa?dl=0)
+
+---
+
+"Opioid Deaths and Local Health Care Intensity: A Longitudinal Analysis of the U.S. Population, 2003-2014," with Siying Liu and Christopher J. Ruhm. Forthcoming at *American Journal of Preventive Medicine*.
 
 ---
 
