@@ -16,34 +16,26 @@ For all published papers, I provide all publicly available datasets, data cleani
 
 **Publications**
 
+"Opioid Deaths and Local Health Care Intensity: A Longitudinal Analysis of the U.S. Population, 2003-2014," with Siying Liu and Christopher J. Ruhm. Forthcoming at *American Journal of Preventive Medicine*.
+
 ["Cognitive Performance and Labour Market Outcomes"](https://www.sciencedirect.com/science/article/pii/S0927537117303329)
-with [Randall Lutter](https://batten.virginia.edu/school/people/randall-lutter) and [Christopher J. Ruhm](https://batten.virginia.edu/school/people/christopher-j-ruhm). *Labour Economics 51 (2018): 121-135*.
-
-[Preprint Working Paper with All Appendices](https://www.dropbox.com/s/0599h9ykeoduivt/Cognitive%20Performance%20%26%20Labor%20Mkt%20Outcomes%20IZA_fin.pdf?dl=0)
-
-[Replication Package](https://www.dropbox.com/sh/xff0m2polmqj7zh/AADgm3bYupjePWHuvW9XhtQIa?dl=0)
+with [Randall Lutter](https://batten.virginia.edu/school/people/randall-lutter) and [Christopher J. Ruhm](https://batten.virginia.edu/school/people/christopher-j-ruhm). *Labour Economics 51 (2018): 121-135*. [Preprint Working Paper with All Appendices](https://www.dropbox.com/s/0599h9ykeoduivt/Cognitive%20Performance%20%26%20Labor%20Mkt%20Outcomes%20IZA_fin.pdf?dl=0), [Replication Package](https://www.dropbox.com/sh/xff0m2polmqj7zh/AADgm3bYupjePWHuvW9XhtQIa?dl=0).
 
 ---
 
-["Breastfeeding, Schooling and Income: Insights from the Indonesian Family Life Survey"](https://onlinelibrary.wiley.com/doi/abs/10.1111/mcn.12651)
-with Randall Lutter, Christopher J. Ruhm and [Siying Liu](https://siyingl.github.io/). *Maternal & Child Nutrition* 15.1(2019): e12651.
-
-[Preprint Working Paper with All Appendices](https://www.dropbox.com/s/vobvg4k5l4gr7bg/BF_Indonesia_Fin.pdf?dl=0)
-
-[Replication Package](https://www.dropbox.com/sh/v8fkgrjwvfdaoxa/AAAwFO3CCGAygl7tEIVpsfVDa?dl=0)
+["Breastfeeding, Schooling and Income: Insights from the Indonesian Family Life Survey"](https://onlinelibrary.wiley.com/doi/abs/10.1111/mcn.12651) with Randall Lutter, Christopher J. Ruhm and [Siying Liu](https://siyingl.github.io/). *Maternal & Child Nutrition* 15.1(2019): e12651. [Preprint Working Paper with All Appendices](https://www.dropbox.com/s/vobvg4k5l4gr7bg/BF_Indonesia_Fin.pdf?dl=0) [Replication Package](https://www.dropbox.com/sh/v8fkgrjwvfdaoxa/AAAwFO3CCGAygl7tEIVpsfVDa?dl=0)
 
 ---
 
 **Working Papers**
 
-"Opioid Related Deaths and Local Health Care Intensity" 
-with Siying Liu and Christopher J. Ruhm. (Submitted; draft available upon request)
-
----
-
 "Multi-Dimensional Abilities, Task Content of Occupations and Career Choices: A Dynamic Analysis" 
 
 [Draft](https://www.dropbox.com/s/l14gnjsh5xdnnap/draft.pdf?dl=0)
+
+---
+
+"Can Growth Conquer All? The Pollution-Mortality Relationship in High-Income High-Pollution Hong Kong,” with [Jonathan Colmer](http://economics.virginia.edu/people/profile/jmc4qg), Siying Liu and [Jay P. Shimshack](https://batten.virginia.edu/school/people/jay-shimshack).
 
 ---
 
@@ -59,7 +51,3 @@ with Siying Liu and Christopher J. Ruhm. (Submitted; draft available upon reques
 
 [Two Page Summary](https://www.dropbox.com/s/rr3dl8ykk72wqlo/Abstract%202_Friedberg_Guo_Lin.pdf?dl=0)
 
----
-
-"Air Pollution, Infant Morbidity and Infant Mortality: Evidence from 15 Years of Births and Deaths in Hong Kong"
-with [Jonathan Colmer](http://economics.virginia.edu/people/profile/jmc4qg), Siying Liu and [Jay P. Shimshack](https://batten.virginia.edu/school/people/jay-shimshack).
