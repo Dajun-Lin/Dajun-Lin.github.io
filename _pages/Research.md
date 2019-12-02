@@ -29,9 +29,7 @@ with [Randall Lutter](https://batten.virginia.edu/school/people/randall-lutter) 
 
 **Working Papers**
 
-"Multi-Dimensional Abilities, Task Content of Occupations and Career Choices: A Dynamic Analysis" 
-
-[Draft](https://www.dropbox.com/s/l14gnjsh5xdnnap/draft.pdf?dl=0)
+"Multi-Dimensional Abilities, Task Content of Occupations and Career Choices: A Dynamic Analysis," [Draft](https://www.dropbox.com/s/l14gnjsh5xdnnap/draft.pdf?dl=0).
 
 ---
 
@@ -39,15 +37,11 @@ with [Randall Lutter](https://batten.virginia.edu/school/people/randall-lutter) 
 
 ---
 
-"Health Interdependency in the Household" with [Leora Friedberg](http://economics.virginia.edu/people/profile/lfriedberg) and [Dina Guo](https://dinaguo.weebly.com/).
-
-[Two Page Summary](https://www.dropbox.com/s/tfmpv0rffm4i25e/Abstract%201_Health%20Interdependency%20in%20the%20Household.pdf?dl=0)
+"Health Interdependency in the Household" with [Leora Friedberg](http://economics.virginia.edu/people/profile/lfriedberg) and [Dina Guo](https://dinaguo.weebly.com/). [Two Page Summary](https://www.dropbox.com/s/tfmpv0rffm4i25e/Abstract%201_Health%20Interdependency%20in%20the%20Household.pdf?dl=0).
 
 ---
 
 **Work in Progress**
 
-"Happy Together or Home Alone: A Structural Model of Health Insurance, Saving and Coordinated Retirement Decisions" with Leora Friedberg and Dina Guo (Extended from Dina's dissertation).
-
-[Two Page Summary](https://www.dropbox.com/s/rr3dl8ykk72wqlo/Abstract%202_Friedberg_Guo_Lin.pdf?dl=0)
+"Happy Together or Home Alone: A Structural Model of Health Insurance, Saving and Coordinated Retirement Decisions" with Leora Friedberg and Dina Guo (Extended from Dina's dissertation). [Two Page Summary](https://www.dropbox.com/s/rr3dl8ykk72wqlo/Abstract%202_Friedberg_Guo_Lin.pdf?dl=0).
 
