@@ -28,11 +28,11 @@ with [Randall Lutter](https://batten.virginia.edu/school/people/randall-lutter) 
 
 **Working Papers**
 
-"Multi-Dimensional Abilities, Task Content of Occupations and Career Choices: A Dynamic Analysis," [Draft](https://www.dropbox.com/s/l14gnjsh5xdnnap/draft.pdf?dl=0).
+[Multi-Dimensional Abilities, Task Content of Occupations and Career Choices: A Dynamic Analysis.](https://www.dropbox.com/s/l14gnjsh5xdnnap/draft.pdf?dl=0).
 
 ---
 
-"Can Growth Conquer All? The Pollution-Mortality Relationship in High-Income High-Pollution Hong Kong,” with [Jonathan Colmer](http://economics.virginia.edu/people/profile/jmc4qg), Siying Liu and [Jay P. Shimshack](https://batten.virginia.edu/school/people/jay-shimshack).
+["Can Growth Conquer All? The Pollution-Mortality Relationship in High-Income High-Pollution Hong Kong”] (https://www.dropbox.com/s/qey0h9df3cv5324/Hong_Kong_Pollution_Paper.pdf?dl=0) with [Jonathan Colmer](http://economics.virginia.edu/people/profile/jmc4qg), Siying Liu and [Jay P. Shimshack](https://batten.virginia.edu/school/people/jay-shimshack).
 
 ---
 
