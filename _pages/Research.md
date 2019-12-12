@@ -42,5 +42,5 @@ with [Randall Lutter](https://batten.virginia.edu/school/people/randall-lutter) 
 
 **Work in Progress**
 
-"Happy Together or Home Alone: A Structural Model of Health Insurance, Saving and Coordinated Retirement Decisions" with Leora Friedberg and Dina Guo (Extended from Dina's dissertation). [Two Page Summary](https://www.dropbox.com/s/rr3dl8ykk72wqlo/Abstract%202_Friedberg_Guo_Lin.pdf?dl=0).
+"Happy Together or Home Alone: A Structural Model of Health Insurance, Saving and Coordinated Retirement Decisions" with Leora Friedberg and Dina Guo. [Two Page Summary](https://www.dropbox.com/s/rr3dl8ykk72wqlo/Abstract%202_Friedberg_Guo_Lin.pdf?dl=0).
 
