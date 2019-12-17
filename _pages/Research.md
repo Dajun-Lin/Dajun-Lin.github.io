@@ -14,7 +14,7 @@ Research
 **Publications**
 
 ["Cognitive Performance and Labour Market Outcomes"](https://www.sciencedirect.com/science/article/pii/S0927537117303329)
-with [Randall Lutter](https://batten.virginia.edu/school/people/randall-lutter) and [Christopher J. Ruhm](https://batten.virginia.edu/school/people/christopher-j-ruhm). *Labour Economics 51 (2018): 121-135*. [Preprint Working Paper with All Appendices](https://www.dropbox.com/s/0599h9ykeoduivt/Cognitive%20Performance%20%26%20Labor%20Mkt%20Outcomes%20IZA_fin.pdf?dl=0), [Replication Package](https://www.dropbox.com/sh/xff0m2polmqj7zh/AADgm3bYupjePWHuvW9XhtQIa?dl=0).
+with [Randall Lutter](https://batten.virginia.edu/school/people/randall-lutter) and [Christopher J. Ruhm](https://batten.virginia.edu/school/people/christopher-j-ruhm). *Labour Economics* 51 (2018): 121-135. [Preprint Working Paper with All Appendices](https://www.dropbox.com/s/0599h9ykeoduivt/Cognitive%20Performance%20%26%20Labor%20Mkt%20Outcomes%20IZA_fin.pdf?dl=0), [Replication Package](https://www.dropbox.com/sh/xff0m2polmqj7zh/AADgm3bYupjePWHuvW9XhtQIa?dl=0).
 
 ---
 
@@ -22,7 +22,7 @@ with [Randall Lutter](https://batten.virginia.edu/school/people/randall-lutter) 
 
 ---
 
-["Opioid Deaths and Local Health Care Intensity: A Longitudinal Analysis of the U.S. Population, 2003-2014"](https://www.sciencedirect.com/science/article/pii/S0749379719304143) with Siying Liu and Christopher J. Ruhm. Forthcoming at *American Journal of Preventive Medicine*.
+["Opioid Deaths and Local Health Care Intensity: A Longitudinal Analysis of the U.S. Population, 2003-2014"](https://www.sciencedirect.com/science/article/pii/S0749379719304143) with Siying Liu and Christopher J. Ruhm. *American Journal of Preventive Medicine* 58.1 (2020): 50-58.
 
 ---
 
