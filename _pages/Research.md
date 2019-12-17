@@ -22,7 +22,7 @@ with [Randall Lutter](https://batten.virginia.edu/school/people/randall-lutter) 
 
 ---
 
-"Opioid Deaths and Local Health Care Intensity: A Longitudinal Analysis of the U.S. Population, 2003-2014" with Siying Liu and Christopher J. Ruhm. Forthcoming at *American Journal of Preventive Medicine*.
+["Opioid Deaths and Local Health Care Intensity: A Longitudinal Analysis of the U.S. Population, 2003-2014"](https://www.sciencedirect.com/science/article/pii/S0749379719304143) with Siying Liu and Christopher J. Ruhm. Forthcoming at *American Journal of Preventive Medicine*.
 
 ---
 
