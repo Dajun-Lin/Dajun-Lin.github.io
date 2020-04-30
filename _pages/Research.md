@@ -28,7 +28,7 @@ with [Randall Lutter](https://batten.virginia.edu/school/people/randall-lutter) 
 
 **Working Papers**
 
-["Multi-Dimensional Abilities, Task Content of Occupations and Career Choices: A Dynamic Analysis"](https://www.dropbox.com/s/qnaw7v8wh9hsxit/SOLE_draft_Lin_2020.pdf?dl=0).
+["Multi-Dimensional Abilities, Task Content of Occupations and Career Choices: A Dynamic Analysis"](https://www.dropbox.com/s/gh979x30ursr3al/NBER_draft_Lin.pdf?dl=0).
 
 ---
 
