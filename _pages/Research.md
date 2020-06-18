@@ -32,7 +32,7 @@ with [Randall Lutter](https://batten.virginia.edu/school/people/randall-lutter) 
 
 ---
 
-["Why Are Pollution Damages Lower in Developed Countries? Insights from High-Income, High-Pollution Hong Kong”](https://www.dropbox.com/s/vhqr6a9wdg137al/Hong_Kong_Pollution_Paper_June_2020.pdf?dl=0) with [Jonathan Colmer](http://economics.virginia.edu/people/profile/jmc4qg), Siying Liu and [Jay P. Shimshack](https://batten.virginia.edu/school/people/jay-shimshack).
+["Why Are Pollution Damages Lower in Developed Countries? Insights from High-Income, High-Particulate Matter Hong Kong”](https://www.dropbox.com/s/vhqr6a9wdg137al/Hong_Kong_Pollution_Paper_June_2020.pdf?dl=0) with [Jonathan Colmer](http://economics.virginia.edu/people/profile/jmc4qg), Siying Liu and [Jay P. Shimshack](https://batten.virginia.edu/school/people/jay-shimshack).
 
 ---
 
