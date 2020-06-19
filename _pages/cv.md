@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a PDF version of my CV [here](https://www.dropbox.com/s/jwvqb7pgjc6akx8/Lin_CV.pdf?dl=0).
+You can download a PDF version of my CV [here](https://www.dropbox.com/s/0ojx2k83u5jys5v/Lin_CV_June2020.pdf?dl=0).
 
 Education
 ======
