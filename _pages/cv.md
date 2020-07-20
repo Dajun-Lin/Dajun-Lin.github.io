@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a PDF version of my CV [here](https://www.dropbox.com/s/0ojx2k83u5jys5v/Lin_CV_June2020.pdf?dl=0).
+You can download a PDF version of my CV [here](https://www.dropbox.com/s/1t709iwemvc7irf/Lin_CV.pdf?dl=0).
 
 Education
 ======
@@ -18,8 +18,8 @@ Education
 Skills
 ======
 * Software
-  * Stata; R; MATLAB; GIS; Python 
+  * Stata; R; MATLAB; ArcGIS 
 * Scientific Computing
-  * Fortran; Parallel Computing
+  * Fortran; MPI
 * Languages
   * Chinese (native); English (high fluency)  
