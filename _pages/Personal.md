@@ -7,7 +7,7 @@ author_profile: true
 
 ## Family
 
-My wife, [Siying Liu](https://SiyingL.github.io), is also an economist. She is currently a post-doctoral researcher at Wake Forest University.
+My wife, [Siying Liu](https://SiyingL.github.io), is also an economist.
 
 Here is a picture of us and our dog.
 
