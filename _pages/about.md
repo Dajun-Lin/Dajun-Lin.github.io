@@ -10,9 +10,9 @@ redirect_from:
 
 # Welcome!
 
-I am a research economist at the American Institutes for Research. My research interests are in labor and health economics.
+I am an economic researcher at the American Institutes for Research. My research interests are in labor and health economics.
 
-Get in touch!
+Let's get in touch!
 
 <!---My dissertation work combines economic theory, structural modeling and computation and simulation methods for estimation to quantify how different abilities (e.g., cognitive vs. interpersonal) affect workers' career choices and lifetime income. I have also studied health-related topics, such as how air pollution affects infant health, how physicians' practicing intensity affects opioid-related deaths and the long-term labor market effects of increased duration of breastfeeding during infancy.
 -->
@@ -25,4 +25,5 @@ Get in touch!
 
 
 **Contact:**
- - Email: dlin@air.org
+ - Email: dl5me@virginia.edu
+<!--- - Email: dlin@air.org--->
