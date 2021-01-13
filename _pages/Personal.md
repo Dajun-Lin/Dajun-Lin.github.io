@@ -7,7 +7,7 @@ author_profile: true
 
 ## Family
 
-My wife, [Siying Liu](https://SiyingL.github.io), is also an economist.
+My wife, [Siying Liu](https://SiyingL.github.io), is an economist at Amazon.
 
 Here is a picture of us and our dog.
 
